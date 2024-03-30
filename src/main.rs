@@ -3,7 +3,7 @@
 TODOs APP BY MrVollbart/SpielProfessor
 Not yet done:
 q/q!: difference
-(c) SpielProfessor/MrVollbart 2024
+made in 2024
 */
 
 
